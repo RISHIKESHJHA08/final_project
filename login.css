@@ -1,0 +1,43 @@
+*{
+    font-family: 'Mulish', sans-serif;
+}
+body{
+    background-color: #1a3e4e;
+}
+.heading{
+    text-align: center;
+    margin-top: 100px;
+    color: #fff;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    padding-top: 30px;
+    display: flex;
+    background-color: #fff;
+    width: 400px;
+    height: 250px;
+    justify-content: center;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+.inputfield{
+    background-color: rgb(206, 206, 206);
+    border: none;
+    padding: 8px 50px;
+    
+}
+.btn{
+    padding: 4px 20px;
+    background-color: #1a3e4e;
+    color: #fff;
+}
+.btn:hover{
+background-color: #fff;
+color: #1a3e4e;
+}
+a:hover{
+    color: rgb(116, 39, 39);
+}
